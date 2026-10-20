@@ -1,0 +1,4 @@
+{
+  "api_base_url": "https://code.heihuzi.ai",
+  "credential_file": "~/.config/heihuzi/.env"
+}
