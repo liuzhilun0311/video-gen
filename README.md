@@ -1,4 +1,6 @@
-# 视频创作
+# 视频创作 (video-gen)
+
+英文调用标识是 `$video-gen`，界面显示为“视频创作 (video-gen)”。
 
 根据文字或本机图片创建视频任务，支持 Seedance 和 MiniMax，随后查询、等待并下载 MP4。
 Seedance 的部分模型支持首帧、首尾帧和参考图；MiniMax 支持文字和 JPEG 首帧。

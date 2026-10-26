@@ -1,5 +1,5 @@
 interface:
-  display_name: "视频创作"
+  display_name: "视频创作 (video-gen)"
   short_description: "用文字或图片生成短视频，支持首尾帧与参考图，保存任务并下载成片"
   default_prompt: "使用 $video-gen 制作一段海浪拍打沙滩的五秒视频，提交前确认生成设置。"
 policy:
